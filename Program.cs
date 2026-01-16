@@ -14,6 +14,9 @@ namespace PasswordCheck
             // Get password length
             var passwordLength = password.Length;
 
+            //Hey lucinda , so this is something you can delete when you done with your lessoms
+            var x = 5;
+
             // Check if password uses symbol
             var passwordCheck = 5;
 
