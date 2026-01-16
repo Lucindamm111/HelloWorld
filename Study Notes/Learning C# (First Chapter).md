@@ -112,14 +112,16 @@ namespace FavoriteNumber
 
       // Attempt 2: use explicit conversion
 
-&nbsp;     \*\*// int faveNumber = (int)Console.ReadLine();\*\*
+      \*\*// int faveNumber = (int)Console.ReadLine();\*\*
+
 
 
  
 
       // Attempt 3: use Convert method
 
-&nbsp;     \*\*int faveNumber = Convert.ToInt32(Console.ReadLine());\*\*
+      \*\*int faveNumber = Convert.ToInt32(Console.ReadLine());\*\*
+
 
 
     }
@@ -306,4 +308,7 @@ A common way to do this is by using string concatenation. String concatenation i
 **Interpolation**
 
 Notice how we just have one string, which we prepend with the dollar sign symbol $. Ensure there is no space between the $ and the starting quotation mark ". Whenever we need to insert a variable, we surround it with braces {}.
+
+
+Test Note Line 
 
