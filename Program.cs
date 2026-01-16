@@ -6,6 +6,8 @@ namespace PasswordCheck
     {
         static void Main(string[] args)
         {
+
+            
             // Create password
             string password = "a92301j2add";
 
