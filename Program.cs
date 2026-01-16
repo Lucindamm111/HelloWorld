@@ -15,6 +15,8 @@ namespace PasswordCheck
             // Check if password uses symbol
             var passwordCheck = 5;
 
+            Console.WriteLine(passwordLength);
+
 
             // Print results
             Console.WriteLine($"The user password is {password}. Its length is {passwordLength} and it receives a {passwordCheck} check.");
